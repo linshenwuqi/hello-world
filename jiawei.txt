@@ -1,0 +1,5 @@
+touch jiawei.txt
+git add jiawei.txt
+git commit -m "这是文件描述"
+git push
+git status    查看状态：可在以上任何时间使用
